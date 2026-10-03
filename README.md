@@ -8,11 +8,9 @@ Yuhao Zheng (Imperial College London) and Ting You (University of Pennsylvania).
 
 WorldEdge-Flow (WEF) is an adaptive world-model planner for joint request routing and replica scaling in distributed edge LLM serving. It combines shallow candidate screening, prediction reuse, and early stopping to balance SLO goodput against resource occupancy.
 
-## Paper
+## Publication Status
 
-[Read the manuscript (PDF)](WorldEdge-Flow.pdf)
-
-This repository currently contains the manuscript only. The paper has not yet been accepted for publication.
+The paper is under review and has not yet been accepted for publication. This repository serves as a project placeholder during review; the manuscript is not included in the current repository version.
 
 ## Code Release
 
