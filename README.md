@@ -15,8 +15,3 @@ The paper is under review and has not yet been accepted for publication. This re
 ## Code Release
 
 Code and experiment configurations will be released upon acceptance of the paper.
-
-## Contact
-
-- Yuhao Zheng: y.zheng26@imperial.ac.uk
-- Ting You: tingyou@engineering.upenn.edu
