@@ -2,8 +2,6 @@
 
 **WorldEdge-Flow: Adaptive World-Model Planning for Distributed Edge LLM Serving**
 
-Yuhao Zheng (Imperial College London) and Ting You (University of Pennsylvania). Equal contribution.
-
 ## Overview
 
 WorldEdge-Flow (WEF) is an adaptive world-model planner for joint request routing and replica scaling in distributed edge LLM serving. It combines shallow candidate screening, prediction reuse, and early stopping to balance SLO goodput against resource occupancy.
